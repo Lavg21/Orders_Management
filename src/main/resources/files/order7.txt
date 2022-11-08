@@ -1,0 +1,4 @@
+ID: 7
+ID Client: 5
+ID Produs: 6
+Cantitate: 1
